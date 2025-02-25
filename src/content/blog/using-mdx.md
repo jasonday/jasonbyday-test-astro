@@ -4,7 +4,7 @@ title: Using MDX
 description: Is this the meta description?
 pubDate: Jun 01 2024
 updatedDate: Sep 23 2024
-heroImage: /blog-placeholder-5.jpg
+heroImage: 'https://transcendent-pie-81c865.netlify.app/blog-placeholder-5.jpg'
 ---
 
 This theme comes with the [@astrojs/mdx](https://docs.astro.build/en/guides/integrations-guide/mdx/) integration installed and configured in your `astro.config.mjs` config file. If you prefer not to use MDX, you can disable support by removing the integration from your config file.
